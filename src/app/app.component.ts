@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ShoppingListService } from './shared/shoppingList.service';
+import { ShoppingListService } from 'src/app/shopping-list/shopping-list.service';
 
 @Component({
   selector: 'app-root',
